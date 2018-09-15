@@ -12,14 +12,14 @@ url: https://jeffreyju.github.io
 domain: https://jeffreyju.github.io
 
 all_categories: [
-  ["android", "Android开发","/android/index.html"], 
-  ["react", "React Native", "/react/index.html"],
-  ["web", "Web建站","/web/index.html"], 
+  ["streammedia", "音视频开发","/streammedia/index.html"], 
+  ["iot", "物联网", "/iot/index.html"],
+  ["code", "编程语言","/codelanguage/index.html"], 
   ["linux", "Linux相关","/linux/index.html"],
-  ["git", "git用法","/git/index.html"],
-  ["program", "软件开发","/program/index.html"],
-  ["vps", "VPS","/vps/index.html"],
-  ["other", "杂记","/other/index.html"],
+  ["ai", "人工智能","/ai/index.html"],
+  ["arch", "架构","/architecture/index.html"],
+  ["codelife", "程序人生","/codelife/index.html"],
+  ["dm", "研发管理","/devmanager/index.html"], 
   ["read", "书摘","/read/index.html"], 
   ["about", "关于","/about.html"]
 ]
