@@ -2,7 +2,7 @@
 layout: post
 title: "FFMPEG 常用命令使用"
 date: 2017-08-02 00:01:01
-category: web
+category: streammedia
 tags: [FFMPEG,FFPLAY]
 ---
 在流媒体应用中，ffmpeg可谓是不可或缺的应用工具，在我们自己的产品中，也有ffmpeg的身影，通过对ffmpeg封装，进行接入rtsp，rtmp，转码，打包ts等等。一下关于ffmpeg命令使用需要掌握哪些语法或者参数选项加以说明。
